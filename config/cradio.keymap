@@ -124,7 +124,7 @@
             &kp Q      &kp W      &kp E      &kp R      &kp T          &kp U      &kp I      &kp O      &kp P      &kp LBKT
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│  A       │  S       │  D       │  F       │  G       │   │  J       │  K       │  L       │  ; :     │  ' "     │
-            &kp A      &kp S      &kp E      &kp F      &kp G          &kp J      &kp K      &kp L      &kp SEMI   &kp SQT
+            &kp A      &kp S      &kp D      &kp F      &kp G          &kp J      &kp K      &kp L      &kp SEMI   &kp SQT
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│          │  TAB     │  DELETE  │  T       │          │   │  Y       │  BCKSP   │          │  ESCAPE  │  ENTER   │
             &to 0      &kp TAB    &kp DEL    &kp T      &none          &kp Y      &kp BSPC   &none      &kp ESC    &kp ENTER 
