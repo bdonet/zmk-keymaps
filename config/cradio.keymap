@@ -146,7 +146,7 @@
         //│  SPACE   │  X       │  C       │  B       │  E       │   │  CTRL    │  ESC     │  F4      │  F9      │  ENTER   │
             &kp SPACE  &kp X      &kp C      &kp B      &kp E          &kp LCTRL  &kp ESC    &kp F4     &kp F9     &kp ENTER 
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
-                                             &kp CAPS   &kp LSHIFT      &kp TAB    &kp LALT
+                                             &kp CAPS   &kp LSHIFT      &kp TAB    &kp V
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
             >;
         };
