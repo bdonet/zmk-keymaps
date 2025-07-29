@@ -161,9 +161,9 @@
             &kp A      &kp S      &kp W      &kp D      &kp E          &kp N4     &kp LEFT   &kp DOWN   &kp UP     &kp RIGHT
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│  CTRL    │  F       │  C       │  Q       │  TAB     │   │  X       │  Z       │  B       │  ESC     │  ENTER   │
-            &kp LCTRL  &kp X      &kp C      &kp Q      &kp TAB        &kp X      &kp Z      &kp B      &kp ESC     &kp ENTER 
+            &kp LCTRL  &kp F      &kp C      &kp Q      &kp TAB        &kp X      &kp Z      &kp B      &kp ESC     &kp ENTER 
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
-                                            &kp SPACE   &kp LSHIFT     &kp V      &kp RALT
+                                            &kp SPACE   &kp LSHIFT     &kp V      &kp RCTRL
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
             >;
         };
